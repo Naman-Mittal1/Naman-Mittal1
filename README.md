@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman-mittal1&label=Profile%20views&color=0e75b6&style=flat" alt="naman-mittal1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_naman_mittal" target="blank"><img src="https://img.shields.io/twitter/follow/_naman_mittal?logo=twitter&style=for-the-badge" alt="_naman_mittal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_naman_mittal" target="blank"><img src="https://img.shields.io/twitter/follow/_naman_mittal?logo=twitter&style=for-the-badge" alt="_naman_mittal" /></a> </p> <br>
 
-- 🔭 I’m currently working on **Android App**
+- 🔭 I’m currently aiming at <b>Competitive Programming</b> <br> <br>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning <b>Kotlin</b> <br> <br>
 
-- 👯 I’m looking to collaborate to **open-source**
+- 👯 I’m looking to collaborate to <b>open-source</b> <br> <br>
 
-- 🤝 I’m looking for help with **Competitive Programming**
+- 🤝 I’m looking for help with <b>Android Development</b> <br> <br>
 
-- 📫 How to reach me **mittalnaman08@gmail.com**
+- 📫 How to reach me <b>mittalnaman08@gmail.com</b> <br> <br>
 
-- ⚡ Fun fact **you never know everything**
+- ⚡ Fun fact <b>you never know everything</b> <br> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
