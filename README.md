@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/FarOldElephantbeetle-max-1mb.gif)](https://github.com/Naman-Mittal1)
+<!-- [![MasterHead](https://thumbs.gfycat.com/FarOldElephantbeetle-max-1mb.gif)](https://github.com/Naman-Mittal1) --!>
 <h1 align="center">Hi 👋, I'm Naman Mittal</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8,quality-100/20210706_developer-economy_01.jpg">
