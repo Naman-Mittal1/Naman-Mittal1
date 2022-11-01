@@ -3,13 +3,13 @@
 <h3 align="center">A developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8,quality-100/20210706_developer-economy_01.jpg">
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman-mittal1&label=Profile%20views&color=0e75b6&style=flat" alt="naman-mittal1" /> </p> --!>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naman-mittal1&label=Profile%20views&color=0e75b6&style=flat" alt="naman-mittal1" /> </p> 
 
 <p align="left"> <a href="https://twitter.com/_naman_mittal" target="blank"><img src="https://img.shields.io/twitter/follow/_naman_mittal?logo=twitter&style=for-the-badge" alt="_naman_mittal" /></a> </p> <br>
 
 - 🔭 I’m currently aiming at <b>Competitive Programming</b> <br> <br>
 
-- 🌱 I’m currently learning <b>Kotlin</b> <br> <br>
+- 🌱 I’m currently learning <b>Node JS</b> <br> <br>
 
 - 👯 I’m looking to collaborate to <b>open-source</b> <br> <br>
 
