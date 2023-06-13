@@ -35,6 +35,6 @@
 <hr>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman-mittal1&show_icons=true&locale=en&layout=compact" alt="naman-mittal1" /></p> !-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman-mittal1&show_icons=true&locale=en" alt="naman-mittal1" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman-mittal1&show_icons=true&locale=en" alt="naman-mittal1" /></p> !-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-mittal1&" alt="naman-mittal1" /></p>
